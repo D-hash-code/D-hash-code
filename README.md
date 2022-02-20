@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")
 
 
-[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-hash-code)](https://github.com/D-hash-code/github-readme-stats)
+[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-hash-code)](https://github.com/anuraghazra/github-readme-stats)
