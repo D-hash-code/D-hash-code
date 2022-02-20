@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a GoLang-based Microservices Backend Platform @ American Express
+- 🌱 I’m currently learning C, React, JAX, GANs, Natural Language Models, Manim and Golang
+- 👯 I’m looking to collaborate
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")
+
+
+[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-hash-code)](https://github.com/D-hash-code/github-readme-stats)
