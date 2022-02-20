@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C, React, JAX, GANs, Natural Language Models, Manim and Golang
 - 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")
+- 📫 How to reach me: `print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")`
 
 
-[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-hash-code)](https://github.com/anuraghazra/github-readme-stats)
+[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-hash-code&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Darshan's wakatime stats](http://github-readme-stats.vercel.app/api/wakatime?username=dhashcode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-hash-code&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
