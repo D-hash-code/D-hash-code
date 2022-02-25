@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a GoLang-based Microservices Backend Platform @ American Express
 - 🌱 I’m currently learning C, React, JAX, GANs, Natural Language Models, Manim and Golang
 - 👯 I’m looking to collaborate on Kaggle Competitions
-- 🤔 I’m looking for help with everything 👀 😅
 - 📫 How to reach me: `print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")`
 
 
