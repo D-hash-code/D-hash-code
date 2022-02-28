@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C, React and Golang
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 💬 Ask me about machine learning, Python and GANs
-- ⚡ Fun fact: I'm Irish (does that count?)
+- ⚡ Fun fact: I'm Irish
 - 📫 How to reach me: `print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")`
 
 
