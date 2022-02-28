@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on a GoLang-based Microservices Backend Platform @ American Express
-- 🌱 I’m currently learning C, React, JAX, GANs, Azure 900, Manim and Golang
+- 🌱 I’m currently learning C, React and Golang
 - 👯 I’m looking to collaborate on Kaggle Competitions
+- 💬 Ask me about machine learning, Python and GANs
+- ⚡ Fun fact: I'm Irish (does that count?)
 - 📫 How to reach me: `print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")`
 
 
