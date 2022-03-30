@@ -1,25 +1,13 @@
 ### Hi there 👋
 
-<!--
-**D-hash-code/D-hash-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on a GoLang-based Microservices Backend Platform @ American Express
-- 🌱 I’m currently learning C, React and Golang
-- 👯 I’m looking to collaborate on Kaggle Competitions
-- 💬 Ask me about machine learning, Python and GANs
+- 💻 My website -> https://darshanhindocha.vercel.app/
+  - Built on `next.js`, and `tailwindcss`
+  - Code available [here](https://github.com/darshan-hindocha/darshanhindocha)
+  - Powered by `Vercel`
+- 🔭 By day: Software Engineer on a financial microservices platform written in Go @ American Express
+- 🧠 Interests: Go, C, Python, Pytorch, Manim, JS/TS, React, Firebase, ... (see starred repositories)
 - ⚡ Fun fact: I'm Irish
-- 📫 How to reach me: `print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")`
+- 📫 How to reach me: `print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")` (<- not actual code!)
 
 
 [![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-hindocha&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
