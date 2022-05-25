@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 My website -> https://darshanhindocha.vercel.app/
+- 💻 My website -> https://www.darshan-hindocha.com/
   - Built on `next.js`, and `tailwindcss`
   - Code available [here](https://github.com/darshan-hindocha/darshanhindocha)
   - Powered by `Vercel`
