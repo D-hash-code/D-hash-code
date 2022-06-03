@@ -5,9 +5,11 @@
   - Code available [here](https://github.com/darshan-hindocha/darshanhindocha)
   - Powered by `Vercel`
 - 🔭 By day: Software Engineer on a financial microservices platform written in Go @ American Express
-- 🧠 Interests: Go, C, Python, Pytorch, Manim, JS/TS, React, Firebase, ... (see starred repositories)
+- 🧠 Interests:
+  - **Backend:** Go, Docker, GraphDBs (dgraph), Database Design, GraphQL
+  - **Data Science:** Python, Pytorch, Manim, GANs, Ethical AI, MLOps
+  - **Frontend:** TypeScript, NextJS, TailwindCSS, MaterialUI
 - ⚡ Fun fact: I'm Irish
-- 📫 How to reach me: `print(f"dh{surname}" + unicode_to_str(U+0040) + "gmail.com")` (<- not actual code!)
 
 
 [![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-hindocha&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
