@@ -4,10 +4,12 @@
   - Built on `next.js`, and `tailwindcss`
   - Code available [here](https://github.com/darshan-hindocha/darshanhindocha)
   - Powered by `Vercel`
-- 🔭 By day: Software Engineer on a financial microservices platform written in Go @ American Express
+- 🔭 By day: @ American Express
+  - Sept 2022 -> Present: Machine Learning Engineer building an ML Search Engine 🔎
+  - Sept 2021 -> Sept 2022: Software Engineer on a Microservices Platform written in Go 💨
 - 🧠 Interests:
-  - **Backend:** Go, Docker, GraphDBs (dgraph), Database Design, GraphQL
-  - **Data Science:** Python, Pytorch, Manim, GANs, Ethical AI, MLOps
+  - **Data Science:** NLP, GNNs, Vector Databases, Productionising ML
+  - **Backend:** Go, Docker, Flask, Postgres
   - **Frontend:** TypeScript, NextJS, TailwindCSS, MaterialUI
 - ⚡ Fun fact: I'm Irish
 
